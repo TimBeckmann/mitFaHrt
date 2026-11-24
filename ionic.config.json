@@ -1,0 +1,7 @@
+{
+  "name": "mitFaHrt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
